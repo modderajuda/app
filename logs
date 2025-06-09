@@ -1,0 +1,515 @@
+2025-06-09 15:53:58.543 27226-27288/com.http.protocol I/GoLog: [Error] [3279253653] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:53:58.543 27226-27288/com.http.protocol I/GoLog: [Error] [1476723276] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:53:58.550 27226-27271/com.http.protocol I/GoLog: [Error] [1360073504] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:53:58.763 26960-26960/com.http.protocol W/MirrorManager: this model don't Support
+2025-06-09 15:53:58.770 26960-26960/com.http.protocol D/MiuiMultiWindowUtils: freeform resolution args raw data:{  "zizhan":{    "freeform_args": {      "inner":{        "vertical_portrait":{"aspect_ratio":0.626, "original_ratio":0.5643,"original_scale":0.74,"top_margin":0.168,"left_margin":0.484},        "horizontal_portrait":{"aspect_ratio":0.626, "original_ratio":0.5643,"original_scale":0.74,"top_margin":0.1222,"left_margin":0.59745},        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.604,"top_margin":0.2596,"left_margin":0.2624},        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.604,"top_margin":0.213,"left_margin":0.3758}      },      "outer":{        "vertical_portrait":{"aspect_ratio":0.626, "original_ratio":1,"original_scale":0.74,"top_margin":0.0753,"left_margin":-1},        "horizontal_portrait":{"aspect_ratio":0.626, "original_ratio":1,"original_scale":0.5756,"top_margin":-1,"left_margin":0.0753},        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":0.6847,"original_scale":0.587,"top_margin":0.0753,"left_margin":-1},        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":0.6847,"original_scale":0.587,"top_margin":-1,"left_margin":0.0753}}    },    "mini_freeform_args":{      "inner":{        "vertical_portrait":{"original_ratio":0.147},        "horizontal_portrait":{"original_ratio":0.147},        "vertical_landscape":{"original_ratio":0.165},        "horizontal_landscape":{"original_ratio":0.165}      },      "outer":{        "vertical_portrait":{"original_ratio":0.26},        "horizontal_portrait":{"original_ratio":0.26},        "vertical_landscape":{"original_ratio":0.293},        "horizontal_landscape":{"original_ratio":0.293}}    }  },  "wide_default":{    "freeform_args": {        "vertical_portrait":{"aspect_ratio":0.625, "original_ratio":0.5806,"original_scale":0.7574,"top_margin":0.125,"left_margin":0.392},        "horizontal_portrait":{"aspect_ratio":0.625, "original_ratio":0.5806,"original_scale":0.7574,"top_margin":-1,"left_margin":0.6415},        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.5153,"top_margin":0.125,"left_margin":0.206},        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.5153,"top_margin":-1,"left_margin":0.456}    },    "mini_freeform_args":{        "vertical_portrait":{"original_ratio":0.144},        "horizontal_portrait":{"original_ratio":0.144},        "vertical_landscape":{"original_ratio":0.144},        "horizontal_landscape":{"original_ratio":0.144}    }  },  "narrow_default": {    "freeform_args": {        "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":1,"original_scale":0.7182,"top_margin":0.142,"left_margin":-1},        "horizontal_portrait":{"aspect_ratio":0.8, "original_ratio":1,"original_scale":0.7182,"top_margin":-1,"left_margin":0.05},        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":0.6545,"original_scale":0.4473,"top_margin":0.142,"left_margin":-1},        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":0.6545,"original_scale":0.4473,"top_margin":-1,"left_margin":0.05}    },    "mini_freeform_args":{        "vertical_portrait":{"original_ratio":0.3},        "horizontal_portrait":{"original_ratio":0.3},        "vertical_landscape":{"original_ratio":0.3},        "horizontal_landscape":{"original_ratio":0.3}    }  },  "regular_default": {    "freeform_args": {      "vertical_portrait":{"aspect_ratio":0.625, "original_ratio":1,"original_scale":0.7,"top_margin":0.109,"left_margin":-1},      "horizontal_portrait":{"aspect_ratio":0.6667, "original_ratio":1,"original_scale":0.6102,"top_margin":-1,"left_margin":0.026},      "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.4244,"top_margin":0.109,"left_margin":-1},      "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.4244,"top_margin":-1,"left_margin":0.026}    },    "mini_freeform_args":{      "vertical_portrait":{"original_ratio":0.25},      "horizontal_portrait":{"origina
+2025-06-09 15:53:58.772 26960-26960/com.http.protocol D/MiuiMultiWindowUtils: initFreeFormResolutionArgs failed, device is duchamp
+2025-06-09 15:53:58.772 26960-26960/com.http.protocol D/IS_CTS_MODE: false
+2025-06-09 15:53:58.772 26960-26960/com.http.protocol D/MULTI_WINDOW_SWITCH_ENABLED: false
+2025-06-09 15:53:58.866 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.867 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.867 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.878 26960-26960/com.http.protocol W/System.err: java.lang.IllegalArgumentException: bound must be positive
+2025-06-09 15:53:58.879 26960-26960/com.http.protocol W/System.err:     at java.util.Random.nextInt(Random.java:388)
+2025-06-09 15:53:58.879 26960-26960/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity.getudp(SocksHttpMainActivity.java:4771)
+2025-06-09 15:53:58.879 26960-26960/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity.onClick(SocksHttpMainActivity.java:4555)
+2025-06-09 15:53:58.879 26960-26960/com.http.protocol W/System.err:     at android.view.View.performClick(View.java:7783)
+2025-06-09 15:53:58.879 26960-26960/com.http.protocol W/System.err:     at android.view.View.performClickInternal(View.java:7756)
+2025-06-09 15:53:58.879 26960-26960/com.http.protocol W/System.err:     at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+2025-06-09 15:53:58.879 26960-26960/com.http.protocol W/System.err:     at android.view.View$PerformClick.run(View.java:31190)
+2025-06-09 15:53:58.879 26960-26960/com.http.protocol W/System.err:     at android.os.Handler.handleCallback(Handler.java:958)
+2025-06-09 15:53:58.880 26960-26960/com.http.protocol W/System.err:     at android.os.Handler.dispatchMessage(Handler.java:99)
+2025-06-09 15:53:58.880 26960-26960/com.http.protocol W/System.err:     at android.os.Looper.loopOnce(Looper.java:222)
+2025-06-09 15:53:58.880 26960-26960/com.http.protocol W/System.err:     at android.os.Looper.loop(Looper.java:314)
+2025-06-09 15:53:58.880 26960-26960/com.http.protocol W/System.err:     at android.app.ActivityThread.main(ActivityThread.java:8610)
+2025-06-09 15:53:58.880 26960-26960/com.http.protocol W/System.err:     at java.lang.reflect.Method.invoke(Native Method)
+2025-06-09 15:53:58.880 26960-26960/com.http.protocol W/System.err:     at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+2025-06-09 15:53:58.880 26960-26960/com.http.protocol W/System.err:     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+2025-06-09 15:53:58.907 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.908 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.909 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.909 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.945 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.946 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.946 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.947 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.948 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.948 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.948 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.949 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.983 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.983 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.984 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.985 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.985 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.986 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:58.986 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.024 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.025 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.025 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.026 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.027 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.027 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.047 26960-26960/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.069 26960-26960/com.http.protocol W/System.err: java.lang.IllegalArgumentException: bound must be positive
+2025-06-09 15:53:59.069 26960-26960/com.http.protocol W/System.err:     at java.util.Random.nextInt(Random.java:388)
+2025-06-09 15:53:59.069 26960-26960/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity.getudp(SocksHttpMainActivity.java:4771)
+2025-06-09 15:53:59.069 26960-26960/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity.startOrStopTunnel(SocksHttpMainActivity.java:3767)
+2025-06-09 15:53:59.070 26960-26960/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity.onClick(SocksHttpMainActivity.java:4558)
+2025-06-09 15:53:59.070 26960-26960/com.http.protocol W/System.err:     at android.view.View.performClick(View.java:7783)
+2025-06-09 15:53:59.070 26960-26960/com.http.protocol W/System.err:     at android.view.View.performClickInternal(View.java:7756)
+2025-06-09 15:53:59.070 26960-26960/com.http.protocol W/System.err:     at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+2025-06-09 15:53:59.070 26960-26960/com.http.protocol W/System.err:     at android.view.View$PerformClick.run(View.java:31190)
+2025-06-09 15:53:59.070 26960-26960/com.http.protocol W/System.err:     at android.os.Handler.handleCallback(Handler.java:958)
+2025-06-09 15:53:59.070 26960-26960/com.http.protocol W/System.err:     at android.os.Handler.dispatchMessage(Handler.java:99)
+2025-06-09 15:53:59.070 26960-26960/com.http.protocol W/System.err:     at android.os.Looper.loopOnce(Looper.java:222)
+2025-06-09 15:53:59.071 26960-26960/com.http.protocol W/System.err:     at android.os.Looper.loop(Looper.java:314)
+2025-06-09 15:53:59.071 26960-26960/com.http.protocol W/System.err:     at android.app.ActivityThread.main(ActivityThread.java:8610)
+2025-06-09 15:53:59.071 26960-26960/com.http.protocol W/System.err:     at java.lang.reflect.Method.invoke(Native Method)
+2025-06-09 15:53:59.071 26960-26960/com.http.protocol W/System.err:     at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+2025-06-09 15:53:59.071 26960-26960/com.http.protocol W/System.err:     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+2025-06-09 15:53:59.072 26960-26960/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.111 26960-26960/com.http.protocol I/Choreographer: Skipped 31 frames!  The application may be doing too much work on its main thread.
+2025-06-09 15:53:59.113 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.113 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.113 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.113 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.113 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.113 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.113 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.115 26960-26960/com.http.protocol D/Verificação de Nome do Aplicativo: Nome do aplicativo válido
+2025-06-09 15:53:59.132 26960-30712/com.http.protocol D/libMEOW: meow new tls: 0xb400007c00614940
+2025-06-09 15:53:59.132 26960-30712/com.http.protocol D/libMEOW: applied 0 plugin for [com.http.protocol].
+2025-06-09 15:53:59.132 26960-30712/com.http.protocol D/libMEOW: meow delete tls: 0xb400007c00614940
+2025-06-09 15:53:59.133 26960-26960/com.http.protocol D/MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformVideoWhiteListInSystem::LIST_ABOUT_SUPPORT_LANDSCAPE_VIDEO = [com.hunantv.imgo.activity, com.tencent.qqlive, com.qiyi.video, com.hunantv.imgo.activity.inter, com.tencent.qqlivei18n, com.iqiyi.i18n, tv.danmaku.bili]
+2025-06-09 15:53:59.143 27226-27271/com.http.protocol I/GoLog: [Error] [1476723276] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:53:59.144 27226-27288/com.http.protocol I/GoLog: [Error] [3279253653] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:53:59.151 27226-27288/com.http.protocol I/GoLog: [Error] [1360073504] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:53:59.151 26960-26960/com.http.protocol D/DecorView[]: getWindowModeFromSystem  windowmode is 1
+2025-06-09 15:53:59.168 26960-26960/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.186 26960-26960/com.http.protocol I/MainService: onCreate
+2025-06-09 15:53:59.187 26960-26960/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.191 26960-26960/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.195 26960-26960/com.http.protocol I/MainService: onStartCommand
+2025-06-09 15:53:59.197 27226-27288/com.http.protocol I/GoLog: [Error] [1200097865] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.198 27226-27288/com.http.protocol I/GoLog: [Error] [311742519] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.198 27226-27288/com.http.protocol I/GoLog: [Error] [1048366605] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.198 27226-27288/com.http.protocol I/GoLog: [Error] [4284565768] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [1246060964] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [2887844697] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [3757436339] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [568851877] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [3019984846] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [4209967397] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [1035987146] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [2391238516] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [4047217520] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [560753547] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [2672130713] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [2459768557] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [4036489053] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [4086461612] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [4071776234] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.199 27226-27287/com.http.protocol I/GoLog: [Error] [3454774328] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.200 27226-27271/com.http.protocol I/GoLog: [Error] [2892334662] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.200 27226-27260/com.http.protocol I/GoLog: [Error] [4171798891] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:53:59.203 26960-26960/com.http.protocol D/CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10498; state: ENABLED
+2025-06-09 15:53:59.204 26960-26960/com.http.protocol D/MainService: Not connected, showing base message: Status Desconhecido
+2025-06-09 15:53:59.213 26960-26960/com.http.protocol W/EpFrameworkFactory: activated: false jar exist: false
+2025-06-09 15:53:59.226 26960-30721/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.233 26960-26960/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.250 26960-26960/com.http.protocol D/ScrollerOptimizationManager: registerConfigChangedListener
+2025-06-09 15:53:59.250 26960-26960/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.263 26960-30531/com.http.protocol W/libc: Access denied finding property "ro.vendor.display.iris_x7.support"
+2025-06-09 15:53:59.257 26960-26960/com.http.protocol W/RenderThread: type=1400 audit(0.0:1509338): avc:  denied  { read } for  name="u:object_r:vendor_displayfeature_prop:s0" dev="tmpfs" ino=497 scontext=u:r:untrusted_app:s0:c242,c257,c512,c768 tcontext=u:object_r:vendor_displayfeature_prop:s0 tclass=file permissive=0 app=com.http.protocol
+2025-06-09 15:53:59.320 26960-26960/com.http.protocol D/VRI[SocksHttpMainActivity]: vri.reportNextDraw android.view.ViewRootImpl.handleResized:2293 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:6740 android.view.ViewRootImpl$ViewRootHandler.handleMessage:6709 android.os.Handler.dispatchMessage:106 
+2025-06-09 15:53:59.381 26960-26960/com.http.protocol D/VRI[SocksHttpMainActivity]: vri.Setup new sync=wmsSync-VRI[SocksHttpMainActivity]#2
+2025-06-09 15:53:59.388 26960-26960/com.http.protocol D/VRI[SocksHttpMainActivity]: vri.reportDrawFinished
+2025-06-09 15:53:59.403 26960-26960/com.http.protocol D/BufferQueueConsumer: [](id:695000000001,api:0,p:-1,c:26960) connect: controlledByApp=false
+2025-06-09 15:53:59.406 26960-30531/com.http.protocol E/OpenGLRenderer: Unable to match the desired swap behavior.
+2025-06-09 15:53:59.522 26960-26960/com.http.protocol D/VRI[SocksHttpMainActivity]: vri.reportNextDraw android.view.ViewRootImpl.performTraversals:4360 android.view.ViewRootImpl.doTraversal:2976 android.view.ViewRootImpl$TraversalRunnable.run:10422 android.view.Choreographer$CallbackRecord.run:1671 android.view.Choreographer$CallbackRecord.run:1680 
+2025-06-09 15:53:59.522 26960-26960/com.http.protocol D/VRI[SocksHttpMainActivity]: vri.Setup new sync=wmsSync-VRI[SocksHttpMainActivity]#4
+2025-06-09 15:53:59.538 26960-30531/com.http.protocol D/BLASTBufferQueue: [VRI[SocksHttpMainActivity]#1](f:0,a:1) acquireNextBufferLocked size=1412x1392 mFrameNumber=1 applyTransaction=true mTimestamp=1169413893478008(auto) mPendingTransactions.size=0 graphicBufferId=115792318300167 transform=0
+2025-06-09 15:53:59.539 26960-26960/com.http.protocol D/VRI[SocksHttpMainActivity]: vri.reportDrawFinished
+2025-06-09 15:53:59.586 26960-26960/com.http.protocol D/VRI[SocksHttpMainActivity]: vri.reportNextDraw android.view.ViewRootImpl.handleResized:2293 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:6740 android.view.ViewRootImpl$ViewRootHandler.handleMessage:6709 android.os.Handler.dispatchMessage:106 
+2025-06-09 15:53:59.589 26960-26960/com.http.protocol D/VRI[SocksHttpMainActivity]: vri.Setup new sync=wmsSync-VRI[SocksHttpMainActivity]#6
+2025-06-09 15:53:59.592 26960-26960/com.http.protocol D/VRI[SocksHttpMainActivity]: vri.reportDrawFinished
+2025-06-09 15:53:59.595 26960-26960/com.http.protocol I/HandWritingStubImpl: refreshLastKeyboardType: 1
+2025-06-09 15:53:59.595 26960-26960/com.http.protocol I/HandWritingStubImpl: getCurrentKeyboardType: 1
+2025-06-09 15:53:59.739 26960-30728/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.747 26960-30728/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.754 26960-30728/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.763 26960-30728/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.773 26960-30728/com.http.protocol I/V2Utilities: Parsing JSON config: {"outbounds":[{"protocol":"vless","tag":"proxy","settings":{"vnext":[{"address":"rota.cclaro.com.br","port":2096,"users":[{"id":"20e51fc6-2a5c-4ecd-99cb-8f56d0bbb477","encryption":"none","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","tlsSettings":{"allowInsecure":false,"serverName":"rota.cclaro.com.br"}}}],"dns":{"servers":["1.1.1.1"]},"inbounds":[{"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8}}]}
+2025-06-09 15:53:59.774 26960-30728/com.http.protocol I/V2Utilities: Found inbound protocol: socks, port: 10808
+2025-06-09 15:53:59.774 26960-30728/com.http.protocol I/V2Utilities: Parsed vnext address: rota.cclaro.com.br, port: 2096
+2025-06-09 15:53:59.775 26960-30728/com.http.protocol I/V2Utilities: Added traffic statistics policy
+2025-06-09 15:53:59.775 26960-30728/com.http.protocol I/V2Utilities: Parsed V2Config successfully: com.ultrasshservice.config.V2Config@44b4995
+2025-06-09 15:53:59.797 26960-30728/com.http.protocol D/MainService: Connection state changed/disconnected: Stopping time update and resetting start time.
+2025-06-09 15:53:59.802 26960-30728/com.http.protocol D/MainService: Not connected, showing base message: CONECTANDO
+2025-06-09 15:53:59.819 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.822 27226-27226/com.http.protocol I/V2Core: Core status: 0, message: Core stopped
+2025-06-09 15:53:59.822 27226-27226/com.http.protocol E/V2Core: Core error: Core stopped
+2025-06-09 15:53:59.824 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.824 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:53:59.825 27226-27226/com.http.protocol I/V2Core: stopCore => Xray core not running.
+2025-06-09 15:53:59.830 27226-27226/com.http.protocol I/V2Core: stopCore success => Xray core stopped.
+2025-06-09 15:53:59.858 27226-27226/com.http.protocol I/GoLog: initializing core...
+2025-06-09 15:53:59.859 27226-27226/com.http.protocol I/GoLog: starting core...
+2025-06-09 15:53:59.859 27226-27226/com.http.protocol I/V2Core: Xray core started
+2025-06-09 15:53:59.859 27226-27756/com.http.protocol I/GoLog: [Warning] core: Xray 25.6.7 started
+2025-06-09 15:53:59.859 27226-27226/com.http.protocol I/V2Core: Core status: 0, message: Started successfully, running
+2025-06-09 15:53:59.859 27226-27226/com.http.protocol E/V2Core: Core error: Started successfully, running
+2025-06-09 15:53:59.861 27226-27226/com.http.protocol I/GoLog: Starting core successfully
+2025-06-09 15:53:59.862 27226-30771/com.http.protocol E/V2Service: sendFd failed =>
+    java.io.IOException: Connection refused
+        at android.net.LocalSocketImpl.connectLocal(Native Method)
+        at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:259)
+        at android.net.LocalSocket.connect(LocalSocket.java:162)
+        at com.ultrasshservice.V2Service.lambda$sendFileDescriptor$2(V2Service.java:182)
+        at com.ultrasshservice.V2Service$$ExternalSyntheticLambda2.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:1012)
+2025-06-09 15:53:59.868 26960-26960/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:53:59.877 27226-27226/com.http.protocol E/V2Core: startCore failed => 
+    android.app.MissingForegroundServiceTypeException: Starting FGS without a type  callerApp=ProcessRecord{b01bf32 27226:com.http.protocol:RunSoLibV2RayDaemon/u0a498} targetSDK=34
+        at android.app.MissingForegroundServiceTypeException$1.createFromParcel(MissingForegroundServiceTypeException.java:53)
+        at android.app.MissingForegroundServiceTypeException$1.createFromParcel(MissingForegroundServiceTypeException.java:49)
+        at android.os.Parcel.readParcelableInternal(Parcel.java:4870)
+        at android.os.Parcel.readParcelable(Parcel.java:4852)
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:3052)
+        at android.os.Parcel.createException(Parcel.java:3041)
+        at android.os.Parcel.readException(Parcel.java:3024)
+        at android.os.Parcel.readException(Parcel.java:2966)
+        at android.app.IActivityManager$Stub$Proxy.setServiceForeground(IActivityManager.java:7283)
+        at android.app.Service.startForeground(Service.java:775)
+        at com.ultrasshservice.V2Core.showNotification(V2Core.java:273)
+        at com.ultrasshservice.V2Core.startCore(V2Core.java:169)
+        at com.ultrasshservice.V2Service.onStartCommand(V2Service.java:59)
+        at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:5041)
+        at android.app.ActivityThread.-$$Nest$mhandleServiceArgs(Unknown Source:0)
+        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2447)
+        at android.os.Handler.dispatchMessage(Handler.java:106)
+        at android.os.Looper.loopOnce(Looper.java:222)
+        at android.os.Looper.loop(Looper.java:314)
+        at android.app.ActivityThread.main(ActivityThread.java:8610)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+2025-06-09 15:53:59.883 27226-30780/com.http.protocol E/SOCK_FILE: connected to sock file [/data/user/0/com.http.protocol/files/sock_path]
+2025-06-09 15:53:59.912 27226-30771/com.http.protocol E/SOCK_FILE: connected to sock file [/data/user/0/com.http.protocol/files/sock_path]
+2025-06-09 15:54:00.828 27226-27287/com.http.protocol I/GoLog: [Error] [4071776234] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:01.430 27226-27756/com.http.protocol I/GoLog: [Error] [4071776234] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:02.312 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:02.313 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:02.313 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:02.391 27226-27271/com.http.protocol I/GoLog: [Error] [3072588905] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:02.391 27226-27271/com.http.protocol I/GoLog: [Error] [3072588905] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:02.594 27226-27271/com.http.protocol I/GoLog: [Error] [3072588905] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:02.995 27226-27268/com.http.protocol I/GoLog: [Error] [3072588905] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:03.596 27226-27287/com.http.protocol I/GoLog: [Error] [3072588905] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:04.159 26960-30548/com.http.protocol W/System.err: java.net.UnknownHostException: Unable to resolve host "painelconecta5g.com": No address associated with hostname
+2025-06-09 15:54:04.159 26960-30548/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:156)
+2025-06-09 15:54:04.159 26960-30548/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.Dns$1.lookup(Dns.java:41)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:178)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.nextProxy(RouteSelector.java:144)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.next(RouteSelector.java:86)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:176)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+2025-06-09 15:54:04.160 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:90)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:30)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity$17.run(SocksHttpMainActivity.java:3984)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err:     at java.lang.Thread.run(Thread.java:1012)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err:     at libcore.io.Linux.android_getaddrinfo(Native Method)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err:     at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:133)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err:     at libcore.io.BlockGuardOs.android_getaddrinfo(BlockGuardOs.java:222)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err:     at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:133)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:135)
+2025-06-09 15:54:04.161 26960-30548/com.http.protocol W/System.err: 	... 17 more
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err: java.net.UnknownHostException: Unable to resolve host "painelconecta5g.com": No address associated with hostname
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:156)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.Dns$1.lookup(Dns.java:41)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:178)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.nextProxy(RouteSelector.java:144)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.next(RouteSelector.java:86)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:176)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:90)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:30)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity$17.run(SocksHttpMainActivity.java:3984)
+2025-06-09 15:54:04.162 26960-30566/com.http.protocol W/System.err:     at java.lang.Thread.run(Thread.java:1012)
+2025-06-09 15:54:04.163 26960-30566/com.http.protocol W/System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+2025-06-09 15:54:04.163 26960-30566/com.http.protocol W/System.err:     at libcore.io.Linux.android_getaddrinfo(Native Method)
+2025-06-09 15:54:04.163 26960-30566/com.http.protocol W/System.err:     at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:133)
+2025-06-09 15:54:04.163 26960-30566/com.http.protocol W/System.err:     at libcore.io.BlockGuardOs.android_getaddrinfo(BlockGuardOs.java:222)
+2025-06-09 15:54:04.163 26960-30566/com.http.protocol W/System.err:     at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:133)
+2025-06-09 15:54:04.163 26960-30566/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:135)
+2025-06-09 15:54:04.163 26960-30566/com.http.protocol W/System.err: 	... 17 more
+2025-06-09 15:54:04.810 26960-30764/com.http.protocol D/MainService: Connection state CONNECTED: Starting time update and setting start time.
+2025-06-09 15:54:04.819 26960-26960/com.http.protocol I/CipherService: Encryption-Mode: AES/GCM/NoPadding
+2025-06-09 15:54:04.820 26960-30764/com.http.protocol D/MainService: Updating notification time: 00:00:00
+2025-06-09 15:54:04.836 26960-26960/com.http.protocol D/Verificação de Nome do Aplicativo: Nome do aplicativo válido
+2025-06-09 15:54:04.860 26960-30794/com.http.protocol W/System.err: java.net.UnknownHostException: Unable to resolve host "painelconecta5g.com": No address associated with hostname
+2025-06-09 15:54:04.860 26960-30794/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:124)
+2025-06-09 15:54:04.860 26960-30794/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+2025-06-09 15:54:04.860 26960-30794/com.http.protocol W/System.err:     at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+2025-06-09 15:54:04.860 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.Dns$1.lookup(Dns.java:41)
+2025-06-09 15:54:04.860 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:178)
+2025-06-09 15:54:04.860 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.nextProxy(RouteSelector.java:144)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.next(RouteSelector.java:86)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:176)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:90)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:30)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity$17.run(SocksHttpMainActivity.java:3984)
+2025-06-09 15:54:04.861 26960-30794/com.http.protocol W/System.err:     at java.lang.Thread.run(Thread.java:1012)
+2025-06-09 15:54:04.877 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:00
+2025-06-09 15:54:04.981 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:04.982 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:04.982 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:04.982 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:05.126 26960-30795/com.http.protocol I/JSON: {"user":"20e51fc6-2a5c-4ecd-99cb-8f56d0bbb477"}
+2025-06-09 15:54:05.128 26960-30795/com.http.protocol W/System.err: java.net.UnknownHostException: Unable to resolve host "painelconecta5g.com": No address associated with hostname
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:124)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.Dns$1.lookup(Dns.java:41)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:178)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.nextProxy(RouteSelector.java:144)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.next(RouteSelector.java:86)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:176)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+2025-06-09 15:54:05.129 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+2025-06-09 15:54:05.130 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+2025-06-09 15:54:05.130 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+2025-06-09 15:54:05.130 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getOutputStream(HttpURLConnectionImpl.java:262)
+2025-06-09 15:54:05.130 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getOutputStream(DelegatingHttpsURLConnection.java:219)
+2025-06-09 15:54:05.130 26960-30795/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:30)
+2025-06-09 15:54:05.130 26960-30795/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity.lambda$CheckUser$2$com-vpnmoddervpn-vpn-SocksHttpMainActivity(SocksHttpMainActivity.java:504)
+2025-06-09 15:54:05.130 26960-30795/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity$$ExternalSyntheticLambda8.run(Unknown Source:6)
+2025-06-09 15:54:05.130 26960-30795/com.http.protocol W/System.err:     at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+2025-06-09 15:54:05.131 26960-30795/com.http.protocol W/System.err:     at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+2025-06-09 15:54:05.131 26960-30795/com.http.protocol W/System.err:     at java.lang.Thread.run(Thread.java:1012)
+2025-06-09 15:54:05.894 26960-30797/com.http.protocol I/JSON: {"user":"20e51fc6-2a5c-4ecd-99cb-8f56d0bbb477"}
+2025-06-09 15:54:05.894 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:01
+2025-06-09 15:54:05.899 26960-30797/com.http.protocol W/System.err: java.net.UnknownHostException: Unable to resolve host "painelconecta5g.com": No address associated with hostname
+2025-06-09 15:54:05.899 26960-30797/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:124)
+2025-06-09 15:54:05.900 26960-30797/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+2025-06-09 15:54:05.900 26960-30797/com.http.protocol W/System.err:     at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+2025-06-09 15:54:05.900 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.Dns$1.lookup(Dns.java:41)
+2025-06-09 15:54:05.900 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:178)
+2025-06-09 15:54:05.901 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.nextProxy(RouteSelector.java:144)
+2025-06-09 15:54:05.901 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.next(RouteSelector.java:86)
+2025-06-09 15:54:05.901 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:176)
+2025-06-09 15:54:05.902 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+2025-06-09 15:54:05.902 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+2025-06-09 15:54:05.902 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+2025-06-09 15:54:05.902 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+2025-06-09 15:54:05.903 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+2025-06-09 15:54:05.903 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+2025-06-09 15:54:05.903 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getOutputStream(HttpURLConnectionImpl.java:262)
+2025-06-09 15:54:05.903 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getOutputStream(DelegatingHttpsURLConnection.java:219)
+2025-06-09 15:54:05.904 26960-30797/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:30)
+2025-06-09 15:54:05.904 26960-30797/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity.lambda$CheckUser2$6$com-vpnmoddervpn-vpn-SocksHttpMainActivity(SocksHttpMainActivity.java:828)
+2025-06-09 15:54:05.904 26960-30797/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.SocksHttpMainActivity$$ExternalSyntheticLambda9.run(Unknown Source:8)
+2025-06-09 15:54:05.904 26960-30797/com.http.protocol W/System.err:     at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+2025-06-09 15:54:05.904 26960-30797/com.http.protocol W/System.err:     at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+2025-06-09 15:54:05.905 26960-30797/com.http.protocol W/System.err:     at java.lang.Thread.run(Thread.java:1012)
+2025-06-09 15:54:06.899 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:02
+2025-06-09 15:54:07.905 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:03
+2025-06-09 15:54:08.910 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:04
+2025-06-09 15:54:09.914 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:05
+2025-06-09 15:54:10.918 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:06
+2025-06-09 15:54:11.215 27226-27268/com.http.protocol I/GoLog: [Error] [1427154597] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.215 27226-27268/com.http.protocol I/GoLog: [Error] [1246060964] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.215 27226-27268/com.http.protocol I/GoLog: [Error] [3019984846] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.215 27226-27268/com.http.protocol I/GoLog: [Error] [1711777549] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.215 27226-27268/com.http.protocol I/GoLog: [Error] [2391238516] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.215 27226-27268/com.http.protocol I/GoLog: [Error] [4036489053] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.215 27226-27268/com.http.protocol I/GoLog: [Error] [391896500] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.216 27226-27268/com.http.protocol I/GoLog: [Error] [927727854] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.216 27226-27268/com.http.protocol I/GoLog: [Error] [1891537368] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.216 27226-27268/com.http.protocol I/GoLog: [Error] [3775511092] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.216 27226-27268/com.http.protocol I/GoLog: [Error] [1648714061] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.217 27226-27756/com.http.protocol I/GoLog: [Error] [2795411211] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.217 27226-27756/com.http.protocol I/GoLog: [Error] [870813468] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [492347496] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [2915267123] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [4172111304] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [1566052457] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [2887844697] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [153252838] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [3587828339] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [2107306994] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [2772607240] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [320035165] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [4171798891] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [541136496] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [3703239364] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [1577996425] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [3618262987] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [966880277] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [3076887265] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [1089642067] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [4107047908] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [3227802270] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [1453344995] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [4112302718] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [568344363] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.220 27226-28435/com.http.protocol I/GoLog: [Error] [1948077536] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [107904284] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [909634428] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [1184161278] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [1106892629] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [2459768557] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [434436595] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [2342432113] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [1741013772] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [671378072] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [362012581] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [784819149] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [99036495] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [4047217520] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.221 27226-28435/com.http.protocol I/GoLog: [Error] [2892334662] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.222 27226-27604/com.http.protocol I/GoLog: [Error] [560753547] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:11.922 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:07
+2025-06-09 15:54:12.930 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:08
+2025-06-09 15:54:13.936 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:09
+2025-06-09 15:54:14.323 26960-30705/com.http.protocol W/System.err: java.net.UnknownHostException: Unable to resolve host "painelconecta5g.com": No address associated with hostname
+2025-06-09 15:54:14.323 26960-30705/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:156)
+2025-06-09 15:54:14.323 26960-30705/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+2025-06-09 15:54:14.323 26960-30705/com.http.protocol W/System.err:     at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+2025-06-09 15:54:14.323 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.Dns$1.lookup(Dns.java:41)
+2025-06-09 15:54:14.323 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:178)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.nextProxy(RouteSelector.java:144)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.next(RouteSelector.java:86)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:176)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:90)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:30)
+2025-06-09 15:54:14.324 26960-30705/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.util.ConfigUpdate.doInBackground(ConfigUpdate.java:39)
+2025-06-09 15:54:14.325 26960-30705/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.util.ConfigUpdate.doInBackground(ConfigUpdate.java:13)
+2025-06-09 15:54:14.325 26960-30705/com.http.protocol W/System.err:     at android.os.AsyncTask$3.call(AsyncTask.java:394)
+2025-06-09 15:54:14.325 26960-30705/com.http.protocol W/System.err:     at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2025-06-09 15:54:14.325 26960-30705/com.http.protocol W/System.err:     at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:305)
+2025-06-09 15:54:14.325 26960-30705/com.http.protocol W/System.err:     at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+2025-06-09 15:54:14.325 26960-30705/com.http.protocol W/System.err:     at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+2025-06-09 15:54:14.325 26960-30705/com.http.protocol W/System.err:     at java.lang.Thread.run(Thread.java:1012)
+2025-06-09 15:54:14.326 26960-30705/com.http.protocol W/System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+2025-06-09 15:54:14.326 26960-30705/com.http.protocol W/System.err:     at libcore.io.Linux.android_getaddrinfo(Native Method)
+2025-06-09 15:54:14.326 26960-30705/com.http.protocol W/System.err:     at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:133)
+2025-06-09 15:54:14.326 26960-30705/com.http.protocol W/System.err:     at libcore.io.BlockGuardOs.android_getaddrinfo(BlockGuardOs.java:222)
+2025-06-09 15:54:14.326 26960-30705/com.http.protocol W/System.err:     at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:133)
+2025-06-09 15:54:14.326 26960-30705/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:135)
+2025-06-09 15:54:14.326 26960-30705/com.http.protocol W/System.err: 	... 23 more
+2025-06-09 15:54:14.362 26960-30520/com.http.protocol W/System.err: java.net.UnknownHostException: Unable to resolve host "painelconecta5g.com": No address associated with hostname
+2025-06-09 15:54:14.362 26960-30520/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:124)
+2025-06-09 15:54:14.363 26960-30520/com.http.protocol W/System.err:     at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+2025-06-09 15:54:14.363 26960-30520/com.http.protocol W/System.err:     at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+2025-06-09 15:54:14.363 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.Dns$1.lookup(Dns.java:41)
+2025-06-09 15:54:14.363 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:178)
+2025-06-09 15:54:14.363 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.nextProxy(RouteSelector.java:144)
+2025-06-09 15:54:14.363 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.RouteSelector.next(RouteSelector.java:86)
+2025-06-09 15:54:14.363 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:176)
+2025-06-09 15:54:14.363 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+2025-06-09 15:54:14.364 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+2025-06-09 15:54:14.364 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+2025-06-09 15:54:14.364 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+2025-06-09 15:54:14.364 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+2025-06-09 15:54:14.364 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+2025-06-09 15:54:14.364 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:90)
+2025-06-09 15:54:14.364 26960-30520/com.http.protocol W/System.err:     at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:30)
+2025-06-09 15:54:14.364 26960-30520/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.util.ConfigUpdate.doInBackground(ConfigUpdate.java:39)
+2025-06-09 15:54:14.365 26960-30520/com.http.protocol W/System.err:     at com.vpnmoddervpn.vpn.util.ConfigUpdate.doInBackground(ConfigUpdate.java:13)
+2025-06-09 15:54:14.365 26960-30520/com.http.protocol W/System.err:     at android.os.AsyncTask$3.call(AsyncTask.java:394)
+2025-06-09 15:54:14.365 26960-30520/com.http.protocol W/System.err:     at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2025-06-09 15:54:14.365 26960-30520/com.http.protocol W/System.err:     at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:305)
+2025-06-09 15:54:14.365 26960-30520/com.http.protocol W/System.err:     at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+2025-06-09 15:54:14.365 26960-30520/com.http.protocol W/System.err:     at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+2025-06-09 15:54:14.365 26960-30520/com.http.protocol W/System.err:     at java.lang.Thread.run(Thread.java:1012)
+2025-06-09 15:54:14.374 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:14.374 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:14.374 26960-30490/com.http.protocol W/System: A resource failed to call close. 
+2025-06-09 15:54:14.940 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:10
+2025-06-09 15:54:15.953 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:11
+2025-06-09 15:54:16.959 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:12
+2025-06-09 15:54:17.965 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:13
+2025-06-09 15:54:18.970 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:14
+2025-06-09 15:54:19.975 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:15
+2025-06-09 15:54:20.982 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:16
+2025-06-09 15:54:21.988 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:17
+2025-06-09 15:54:22.993 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:18
+2025-06-09 15:54:23.140 27226-27604/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.141 27226-28435/com.http.protocol I/GoLog: [Error] [4209967397] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.141 27226-28435/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.142 27226-27287/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.142 27226-27287/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.142 27226-27287/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.142 27226-27287/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.143 27226-27287/com.http.protocol I/GoLog: [Error] [560753547] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.143 27226-27287/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.195 27226-27604/com.http.protocol I/GoLog: [Error] [2459768557] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.218 27226-27604/com.http.protocol I/GoLog: [Error] [2887844697] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.242 27226-27604/com.http.protocol I/GoLog: [Error] [1139084374] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.242 27226-27604/com.http.protocol I/GoLog: [Error] [2915267123] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.242 27226-27604/com.http.protocol I/GoLog: [Error] [1648714061] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.242 27226-27604/com.http.protocol I/GoLog: [Error] [1711777549] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.247 27226-27289/com.http.protocol I/GoLog: [Error] [2795411211] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.247 27226-27289/com.http.protocol I/GoLog: [Error] [3587828339] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.247 27226-27289/com.http.protocol I/GoLog: [Error] [3618262987] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [1566052457] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [153252838] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [4172111304] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [870813468] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [1200097865] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [1048366605] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [1975715514] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [3703239364] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [320035165] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [699708998] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [1468456425] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [966880277] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [1741013772] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.248 27226-27289/com.http.protocol I/GoLog: [Error] [362012581] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: no such host
+2025-06-09 15:54:23.343 27226-27289/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.343 27226-27289/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.343 27226-27289/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.745 27226-27259/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.745 27226-27259/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.745 27226-27259/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:23.998 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:19
+2025-06-09 15:54:24.347 27226-27756/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:24.347 27226-27756/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:24.347 27226-27756/com.http.protocol I/GoLog: [Error] [544578634] transport/internet/websocket: failed to dial to rota.cclaro.com.br:2096 > dial tcp: lookup rota.cclaro.com.br: operation was canceled
+2025-06-09 15:54:25.005 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:20
+2025-06-09 15:54:26.009 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:21
+2025-06-09 15:54:27.016 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:22
+2025-06-09 15:54:28.022 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:23
+2025-06-09 15:54:29.027 26960-26960/com.http.protocol D/MainService: Notification updated with time: 00:00:24
